@@ -16,25 +16,24 @@ I work across the full data lifecycle — from **data cleaning and processing** 
 ### 🛠️ Tools & Technologies
 
 <p align="center">
-  <img title="Excel" alt="Excel" src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
-  <img title="Power BI" alt="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/>
+  <img title="Excel" alt="Excel" src="https://img.icons8.com/color/72/microsoft-excel-2019.png"/>
+  <img title="Power BI" alt="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="72"/>
+  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="72"/>
+  <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="72"/>
+  <img title="NumPy" alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="72"/>
+  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="72"/>
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="72"/>
+</p>
 
-  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img title="NumPy" alt="NumPy" src="https://raw.githubusercontent.com/devicons/icon/master/icons/numpy/numpy-original.svg" width="40"/>
-
-  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img title="SQL Server" alt="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  <img title="Oracle" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-
-  <img title="Databricks" alt="Databricks" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/>
-  <img title="Apache Spark" alt="Spark" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40"/>
-  <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40"/>
-  <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40"/>
-
-  <img title="Azure" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
-  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<p align="center">
+  <img title="SQL Server" alt="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="72"/>
+  <img title="Oracle" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="72"/>
+  <img title="Databricks" alt="Databricks" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="72"/>
+  <img title="Apache Spark" alt="Spark" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="72"/>
+  <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="72"/>
+  <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="72"/>
+  <img title="Azure" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="72"/>
+  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="72"/>
 </p>
 
 ---
