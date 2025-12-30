@@ -1,49 +1,57 @@
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
+### Hi there 👋 I'm Mohamed Ali,
 
-### Hi there 👋 I'm Thomas George Thomas,
+A **Data Analyst** passionate about transforming raw data into meaningful insights that drive **business decisions**.  
+I work across the full data lifecycle — from **data cleaning and processing** to **analysis, reporting, and visualization** — with a strong focus on clarity, accuracy, and business impact.
 
-A Data engineer passionate about Data Science :bar_chart:. I like automating, building scalable pipelines, improving and optimizing systems. I am a Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+- 📊 Focused on **Data Analysis & Business Insights**
+- 🧹 Strong experience in **Data Cleaning, Processing & ETL Pipelines**
+- 🗄️ Skilled in **Data Warehousing & Structured Data**
+- 📈 Experienced in **Dashboards, Reporting & Data Visualization**
+- 📑 Business & Management Reporting, KPI Tracking & Performance Analysis
+- ☁️ Working with **Cloud Data Platforms & Modern Data Stacks**
+- 💬 Interested in the intersection of **Data & Business**
 
-<!--
-- 🌱 I’m currently pursuing **Masters in Data Analytics Engineering at Northeastern University, Boston**
--->
-- ⚡ **Fun fact:** I **strongly** believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, Anime, Movies 🎥, Genshin Impact 🎮, Amateur Photography 📸
+---
 
-### My skills include
+### 🛠️ Tools & Technologies
 
 <p align="center">
-	<img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/hadoop.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Spark" alt="Spark" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/apache_spark.svg" width="80" height="50" style="vertical-align:down; margin:4px"/>
-	<img title="AWS" alt="AWS" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" width="60" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Scala" alt="Scala" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/scala.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/mysql.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Bitbucket" alt="Bitbucket" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bitbucket.svg" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="Bamboo" alt="Bamboo" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/bamboo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>	
-	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
-	<img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/kafka.svg" width="105" height="40" />
-	<img title="linux" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" width="40" style="vertical-align:down; margin:4px"/>	
-	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
+  <img title="Excel" alt="Excel" src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
+  <img title="Power BI" alt="Power BI" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" width="40"/>
+
+  <img title="Python" alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img title="Pandas" alt="Pandas" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+  <img title="NumPy" alt="NumPy" src="https://raw.githubusercontent.com/devicons/icon/master/icons/numpy/numpy-original.svg" width="40"/>
+
+  <img title="MySQL" alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img title="PostgreSQL" alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img title="SQL Server" alt="SQL Server" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
+  <img title="Oracle" alt="Oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
+
+  <img title="Databricks" alt="Databricks" src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" width="40"/>
+  <img title="Apache Spark" alt="Spark" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg" width="40"/>
+  <img title="Hadoop" alt="Hadoop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original.svg" width="40"/>
+  <img title="Kafka" alt="Kafka" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="40"/>
+
+  <img title="Azure" alt="Azure" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40"/>
+  <img title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
-<!--
-**Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-T
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Core Skills
 
-<br>
-</p>       
+- Data Analysis & Business Insights  
+- Data Cleaning & Data Processing  
+- ETL Pipelines & Data Integration  
+- Data Warehousing  
+- Reporting, KPI Tracking & Performance Analysis  
+- SQL (MySQL, SQL Server, PostgreSQL, Oracle)  
+- Python for Data Analysis (Pandas, NumPy, Matplotlib, Seaborn)  
+- Data Visualization (Power BI, Excel)  
+- Databricks, Apache Spark & Hadoop  
+- Cloud Data Platforms (Azure)
+
+---
+
+⚡ **Fun fact:** I don’t just analyze data — I turn it into **clear reports and insights that decision-makers trust**.
